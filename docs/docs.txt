@@ -1,0 +1,7 @@
+Cách thiết kế cơ sở dữ liệu
+Các sự kiện theo dõi trong hệ thống file (tạo, cập nhật, xóa)
+Các kết nối đến mysql online 
+Giải thích mã nguồn chương trình, từng thành phần 
+
+file db.py: connect đến mysql và tạo db 
+file test.py: test db connection online 
